@@ -389,16 +389,6 @@ foreach ($account_name as $k=>$value)
 }
 
 
-/* $data = "123_String";    
-$whatIWant = substr($data, strpos($data, "_") + 1);  
-
-
-$mystring = 'home/cat1/subcat2/';
-$first = strtok($mystring, '/');
-echo $first; // home
-
-echo $whatIWant; echo '<br>'; */
-
 echo '<br>';
 
 foreach ($debit_trans as $k=>$value) 
